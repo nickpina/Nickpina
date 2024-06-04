@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**nickpina/Nickpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nme é Nicoly Pina 
 
-Here are some ideas to get you started:
+- Estou usado o github por causa do itinerário de robótica
+- Estou estudando no [alura](https://www.alura.com.br)
+- Utilizo esse site para organização e compartilhamento dos meus  projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Para entrar em contato comigo
+
+  nicapina8@gmail.com
+
+  ![](https://media1.tenor.com/m/vBicH3Lgb5MAAAAd/the-office-party.gif)
